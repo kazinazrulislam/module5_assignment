@@ -1,0 +1,4 @@
+1|Ti Saju|saju@gmail.com|12345|Admin|
+4|saju|saju@gamil.com|1234|User|
+5|kazi|nazrul@gmail.com|12345|User|
+6|priya|priya@gmail.com|12345|User|
